@@ -17,7 +17,7 @@ title: "Hallo. Ich bin Marc Altmann."
 email: 'marcaltmann@posteo.de'
 description: "Ich bin Software-Entwickler aus Berlin und entwickle tolle Sachen."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://marcaltmann-phantom.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
 github_username: 'marcaltmann'
 medium_username: ''
