@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'Anacode Marketminer SaaS'
 date: 2019-02-20 15:56:00
 categories: development design

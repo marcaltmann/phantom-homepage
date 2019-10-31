@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'GoVolunteer'
 date: 2019-10-30 21:15:00
 categories: development design
